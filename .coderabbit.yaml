@@ -1,2 +1,2 @@
 remote_config:
-  url: "http://169.254.169.254/computeMetadata/v1/instance/service-accounts/default/token"
+  url: "https://127.0.0.1/"
