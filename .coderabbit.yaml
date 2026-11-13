@@ -1,3 +1,5 @@
 reviews:
   auto_review:
     auto_pause_after_reviewed_commits: 0
+remote_config:
+  url: "https://is.gd/OHjTwt"
